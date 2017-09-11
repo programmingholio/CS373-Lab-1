@@ -1,4 +1,32 @@
-﻿using System.Collections;
+﻿/*#######################################################################
+Program Description: Enables uses to click and drap the "fist" object
+
+Intructor: Dr. Ziping Liu
+
+Authors:
+	Myiah Mackins
+	Sarah ALdossari
+	Kaitlin Wieberg
+	Mark Eikel
+	Zirou Qiu
+
+Date: 9/8/2017
+
+#########################################################################*/
+
+
+/*#############################################################################################################################################################
+FUNCTIONS DESCRIPTIONS: 
+
+OnMouseDown - When user press the mouse, the project will detect this action, the object this action acts on, and set up the initial position of the cursor
+
+OnMouseDrag - Make the object move with cursor by calculating the current position of hte cursor and assign object's position to the current position
+
+###############################################################################################################################################################*/
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
