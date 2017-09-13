@@ -58,7 +58,7 @@ public class Spawn : MonoBehaviour
     public void Generate(Vector2 mousePosition)
     {
         RaycastHit hit = RayFromCamera(mousePosition, 1000.0f);
-        GameObject.Instantiate(ball, hit.point, Quaternion.identity);
+        GameObject.Instantiate(ball, hit.point, Quaternion.Euler(new Vector3(0,0,90)));
     }
 
     public RaycastHit RayFromCamera(Vector3 mousePosition, float rayLength)

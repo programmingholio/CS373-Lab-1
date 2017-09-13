@@ -1,0 +1,41 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa1e)
+    Vendor:   Intel
+    VRAM:     1119 MB
+    Driver:   10.18.15.4248
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv1.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.656 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.657040 ms
+Start game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.748477 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.728723 ms (FindLiveObjects: 0.048160 ms CreateObjectMapping: 0.033159 ms MarkObjects: 0.636350 ms  DeleteObjects: 0.008684 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 418 -> priority: 1 
+  Thread -> id: 12f0 -> priority: 1 
