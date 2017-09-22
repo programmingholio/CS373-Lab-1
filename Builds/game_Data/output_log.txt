@@ -2,30 +2,32 @@ Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) HD Graphics Family (ID=0xa1e)
-    Vendor:   Intel
-    VRAM:     1119 MB
-    Driver:   10.18.15.4248
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   NVIDIA
+    VRAM:     6084 MB
+    Driver:   22.21.13.8178
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\game_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.778 seconds
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\zirou\Desktop\CS373-Lab-1-master\CS373-Lab-1-master\Builds\game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  7.223 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.990533 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 153c -> priority: 1 
-  Thread -> id: 2160 -> priority: 1 
+UnloadTime: 0.789881 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2450 -> priority: 1 
+  Thread -> id: 2144 -> priority: 1 
+  Thread -> id: 2848 -> priority: 1 
+  Thread -> id: 2024 -> priority: 1 

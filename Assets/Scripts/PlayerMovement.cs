@@ -31,7 +31,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour {
 
     //Declare variables
-    public float speed = 20;
+    public float speed = 15;
     private Rigidbody2D rb2d;
 
     private Vector2 movement;
