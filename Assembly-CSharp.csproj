@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8D485DAC-3EC1-E8C9-2966-62BEE14D10DB}</ProjectGuid>
+    <ProjectGuid>{FA81FF6C-86ED-FE8C-5F77-2708256C21E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Drag.cs" />
+     <Compile Include="Assets\Scripts\HitSound.cs" />
+     <Compile Include="Assets\Scripts\move_ironman.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Quit.cs" />
      <Compile Include="Assets\Scripts\Spawn.cs" />
