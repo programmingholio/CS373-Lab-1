@@ -6,17 +6,25 @@ using UnityEngine.SceneManagement;
 
 public class Start_button_behavior : MonoBehaviour {
 	public Button start_button;
+	private string tag;
 
 	// Use this for initialization
 	void Start () {
 		Button btn = start_button.GetComponent<Button>();
+		tag = btn.tag;
 		btn.onClick.AddListener(StartOnClick);
 				
 	}
 	
 	void StartOnClick(){
-		 Debug.Log("Start game!");
-		 SceneManager.LoadScene("testing",LoadSceneMode.Single);
+		 Debug.Log(tag);
+		 if (tag == "Original"){
+		 	SceneManager.LoadScene("Original-Game",LoadSceneMode.Single);
+		 }
+		 else if (tag == "Chase"){
+		 	SceneManager.LoadScene("Chase-Game",LoadSceneMode.Single);
+
+		 }
 	}
 	// Update is called once per frame
 	void Update () {
