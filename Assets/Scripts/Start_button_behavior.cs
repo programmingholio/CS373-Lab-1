@@ -17,13 +17,13 @@ public class Start_button_behavior : MonoBehaviour {
 	}
 	
 	void StartOnClick(){
-		 Debug.Log(tag);
 		 if (tag == "Original"){
+		 	Debug.Log(tag);
 		 	SceneManager.LoadScene("Original-Game",LoadSceneMode.Single);
 		 }
 		 else if (tag == "Chase"){
+			Debug.Log(tag);
 		 	SceneManager.LoadScene("Chase-Game",LoadSceneMode.Single);
-
 		 }
 	}
 	// Update is called once per frame

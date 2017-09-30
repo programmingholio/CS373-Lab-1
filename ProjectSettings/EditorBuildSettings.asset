@@ -9,5 +9,8 @@ EditorBuildSettings:
     path: Assets/Sences/MainMenu.unity
     guid: caa3ffcf7f5ffd044a423b141380c36a
   - enabled: 1
-    path: Assets/Sences/testing.unity
+    path: Assets/Sences/Original-Game.unity
     guid: 7506be3a08cfcea449385efda19d7718
+  - enabled: 1
+    path: Assets/Sences/Chase-Game.unity
+    guid: 91c51420ec4ece645a36e75d58ab01e1
