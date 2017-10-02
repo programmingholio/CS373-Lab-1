@@ -137,3 +137,5 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
 1794f35e05b51533658121db1a747493 Assembly-CSharp.dll:.Chase_player_controller
 b93b2a0d14c8ef58aaae77519b8f963d Assembly-CSharp.dll:.Spawn
+5abd93c318ae6985aaa6946dac9a22f5 Assembly-CSharp.dll:.Chase_enemy_controller
+bfdbbdaa715023e0542cf85d9044c213 Assembly-CSharp.dll:.Chase_iron_pos
