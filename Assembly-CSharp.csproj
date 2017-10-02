@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Chase-Game-Scripts\Chase_player_controller.cs" />
      <Compile Include="Assets\Scripts\Drag.cs" />
      <Compile Include="Assets\Scripts\HitSound.cs" />
      <Compile Include="Assets\Scripts\move_ironman.cs" />
