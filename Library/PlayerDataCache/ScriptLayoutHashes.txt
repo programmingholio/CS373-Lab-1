@@ -111,6 +111,8 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
+bfdbbdaa715023e0542cf85d9044c213 Assembly-CSharp.dll:.Chase_iron_pos
+5abd93c318ae6985aaa6946dac9a22f5 Assembly-CSharp.dll:.Chase_enemy_controller
 4c696c6585078d49eccb83cc1a7d1bcb Assembly-CSharp.dll:.move_ironman
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -137,5 +139,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.SpatialMappingRenderer
 1794f35e05b51533658121db1a747493 Assembly-CSharp.dll:.Chase_player_controller
 b93b2a0d14c8ef58aaae77519b8f963d Assembly-CSharp.dll:.Spawn
-5abd93c318ae6985aaa6946dac9a22f5 Assembly-CSharp.dll:.Chase_enemy_controller
-bfdbbdaa715023e0542cf85d9044c213 Assembly-CSharp.dll:.Chase_iron_pos
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Chase_iron_collision

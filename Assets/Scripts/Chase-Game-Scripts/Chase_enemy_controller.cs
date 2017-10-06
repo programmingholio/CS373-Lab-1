@@ -24,10 +24,11 @@ public class Chase_enemy_controller : MonoBehaviour {
 		transform.rotation = Quaternion.Euler (0, 0, 0);
 		transform.Translate(0.0f,0.0f,0.0f);	
 
-		Debug.Log(playerList.Count);
+		//Debug.Log(playerList.Count);
 
 		if (playerList.Count > 30) {
-				this.transform.position = playerList[0];
+				//`this.transform.position = playerList[0];
+				rb2d.MovePosition(playerList[0]);
 		//		transform.Translate(playerList[0].x, playerList[0].y, playerList[0].z, Space.Self);
 				playerList.RemoveAt(0);
 		}

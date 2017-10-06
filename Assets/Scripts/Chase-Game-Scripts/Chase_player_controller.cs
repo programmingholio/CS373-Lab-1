@@ -8,7 +8,7 @@ public class Chase_player_controller : MonoBehaviour {
 	//public Transform transform;
 	private Rigidbody2D rb2d;
 
-	float speed = 5;
+	float speed = 20;
 	void Start() {
         rb2d = GetComponent<Rigidbody2D> ();
 	}
