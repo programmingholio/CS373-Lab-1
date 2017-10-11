@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\move_ironman.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Quit.cs" />
+     <Compile Include="Assets\Scripts\RPS_game.cs" />
      <Compile Include="Assets\Scripts\Spawn.cs" />
      <Compile Include="Assets\Scripts\Start_button_behavior.cs" />
  <Reference Include="UnityEngine.UI">

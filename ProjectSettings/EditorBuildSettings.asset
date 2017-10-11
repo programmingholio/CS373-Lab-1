@@ -14,3 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sences/Chase-Game.unity
     guid: 91c51420ec4ece645a36e75d58ab01e1
+  - enabled: 1
+    path: Assets/Sences/RPS-Game.unity
+    guid: 7cab6237bd4c45d47bd321390a5772a4

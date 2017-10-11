@@ -25,6 +25,10 @@ public class Start_button_behavior : MonoBehaviour {
 			Debug.Log(tag);
 		 	SceneManager.LoadScene("Chase-Game",LoadSceneMode.Single);
 		 }
+		 else if (tag == "RPS"){
+			Debug.Log(tag);
+			SceneManager.LoadScene("RPS-Game", LoadSceneMode.Single);
+		 }
 	}
 	// Update is called once per frame
 	void Update () {

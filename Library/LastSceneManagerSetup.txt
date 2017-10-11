@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Sences/Chase-Game.unity
+- path: Assets/Sences/RPS-Game.unity
   isLoaded: 1
   isActive: 1
