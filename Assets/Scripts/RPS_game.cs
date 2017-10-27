@@ -74,9 +74,9 @@ public class RPS_game : MonoBehaviour {
 
 		eval_move(move, cpu_move);			
 	}
+
+	
 	int move_network(int move){
-		//HERE WE DEFINE THE BAYESIAN Network
-		//int i, j;
 		N++;
 		if(move == Prediction) NSuccess++;
 
@@ -90,9 +90,7 @@ public class RPS_game : MonoBehaviour {
 		if((AB[0] == 2) && (AB[1] == 1)) i = 7;
 		if((AB[0] == 2) && (AB[1] == 2)) i = 8;
 
-		if(move == 0) j = 0;
-		if(move == 1) j = 1;
-		if(move == 2) j = 2;
+		j = move;
 
 		//Iterate frequency of current move.
 		NAB[i]++;
@@ -120,13 +118,13 @@ public class RPS_game : MonoBehaviour {
 		
 		if((ProbRock > ProbPaper) &&
 				(ProbRock > ProbScissors))
-				return 0;
+				return 1;
 		if((ProbPaper > ProbRock) &&
 				(ProbPaper > ProbScissors))
-				return 1;
+				return 2;
 		if((ProbScissors > ProbRock) &&
 				(ProbScissors > ProbPaper))
-				return 2;
+				return 0;
 
 		System.Random random = new System.Random();
  		return random.Next(0, 2);

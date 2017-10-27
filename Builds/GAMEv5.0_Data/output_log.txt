@@ -7,35 +7,255 @@ Direct3D:
     VRAM:     1119 MB
     Driver:   10.18.15.4248
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\JurbLynx\Desktop\Class\CS373\CS373-Project\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.787 seconds
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\JurbLynx\Desktop\CS373-Lab-1\Builds\GAMEv5.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.052 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 12.990683 ms
-RPS
+UnloadTime: 5.966361 ms
+Chase
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 21.767724 ms
+UnloadTime: 18.784921 ms
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 346.
-Total: 3.517290 ms (FindLiveObjects: 0.106584 ms CreateObjectMapping: 0.071056 ms MarkObjects: 0.664771 ms  DeleteObjects: 2.672509 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 1.807198 ms (FindLiveObjects: 0.054476 ms CreateObjectMapping: 0.028422 ms MarkObjects: 0.251065 ms  DeleteObjects: 1.472444 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.760302 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 5.767404 ms (FindLiveObjects: 0.053686 ms CreateObjectMapping: 0.036317 ms MarkObjects: 0.596083 ms  DeleteObjects: 5.077368 ms)
+
+Chase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.216957 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 3.591501 ms (FindLiveObjects: 0.060003 ms CreateObjectMapping: 0.035528 ms MarkObjects: 0.610294 ms  DeleteObjects: 2.883307 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.615031 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 6.291641 ms (FindLiveObjects: 0.067108 ms CreateObjectMapping: 0.055266 ms MarkObjects: 0.789514 ms  DeleteObjects: 5.378173 ms)
+
+Chase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.450338 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 1.534026 ms (FindLiveObjects: 0.071056 ms CreateObjectMapping: 0.034738 ms MarkObjects: 0.239222 ms  DeleteObjects: 1.187429 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.616610 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 4.578395 ms (FindLiveObjects: 0.057634 ms CreateObjectMapping: 0.041054 ms MarkObjects: 0.459497 ms  DeleteObjects: 4.019418 ms)
+
+RPS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.027158 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 3.137531 ms (FindLiveObjects: 0.071056 ms CreateObjectMapping: 0.051318 ms MarkObjects: 0.513184 ms  DeleteObjects: 2.499603 ms)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Scissors clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paper clicked.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2358 -> priority: 1 
-  Thread -> id: 1278 -> priority: 1 
+  Thread -> id: 245c -> priority: 1 
+  Thread -> id: 1384 -> priority: 1 
